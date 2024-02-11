@@ -1,5 +1,5 @@
 # QUADRATIC INTEGRAL CALCULATOR
-This is a relatively simple command-line application, which calculates the integral of a quadratic function with varying levels of precision depending on the specified tolerance.
+This is a relatively simple command-line application, which calculates the integral of a quadratic function over an interval with varying levels of precision depending on the specified tolerance.
 
 ## IntegralCalculator.java
 Driver class which contains main(), leftRiemannSum(), and quadratic() methods.
