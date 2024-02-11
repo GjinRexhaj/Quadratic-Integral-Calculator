@@ -1,13 +1,14 @@
 /*  DigitCounter Class
-    Author: Gjin Rexhaj
-    Date: 1/30/2024
+    @author Gjin Rexhaj
+    @version 1.0
+    @since 1/30/2024
 
     Acts as a support class which contains methods that
     the number of digits left and right of the decimal points
 
 */
 
-/** DigitCounter Support Class contains four overloaded methods 
+/** {@code DigitCounter} Support Class contains four overloaded methods 
  * for digit numbers and decimal numbers.*/
 public class DigitCounter {
 
