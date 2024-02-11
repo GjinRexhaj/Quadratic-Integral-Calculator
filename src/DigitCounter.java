@@ -3,7 +3,7 @@
     Date: 1/30/2024
 
     Acts as a support class which contains methods that
-    return numbers left and right of the decimal points
+    the number of digits left and right of the decimal points
 
 */
 
