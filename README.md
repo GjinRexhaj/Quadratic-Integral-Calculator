@@ -1,6 +1,14 @@
 # QUADRATIC INTEGRAL CALCULATOR
 This is a relatively simple command-line application, which calculates the integral of a quadratic function over an interval with varying levels of precision depending on the specified tolerance.
 
+To run this program on Windows, download IntegralCalculator.jar and open command prompt.
+Then, type:
+```
+java -jar <Your-downloads-path>\IntegralCalculator.jar
+```
+After you download the file, you can move it anywhere and run it as long as you specify the path where it resides in.
+
+
 ## IntegralCalculator.java
 Driver class which contains main(), leftRiemannSum(), and quadratic() methods.
 
