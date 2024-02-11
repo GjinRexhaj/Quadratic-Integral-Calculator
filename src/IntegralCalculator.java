@@ -1,6 +1,7 @@
 /*  Integral Calculator
-    Author: Gjin Rexhaj
-    Date: 2/1/2024
+    @author Gjin Rexhaj
+    @version 1.0
+    @since 2/1/2024
 
     Calculates the integrals of quadratic equations within a specified tolerance. Uses DigitCounter.java as a support class
 
@@ -9,7 +10,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-/** IntegralCalculator uses DigitCounter as a support class.*/
+/** {@code IntegralCalculator} uses {@code DigitCounter} as a support class.*/
 public class IntegralCalculator {
 
   // accepts a, b, c; returns the value of F(x)
@@ -37,7 +38,7 @@ public class IntegralCalculator {
     return leftRiemannSum;
   }
 
-  /** Main Method executes code- uses leftRiemannSum method and DigitCounter class.*/
+  /** Main Method executes code- uses {@code leftRiemannSum} method and {@code DigitCounter} class.*/
   public static void main(String[] args) {
     // declare a, b, and c values of quadratic formula, as well as left/right intervals, tolerance,
     // and initialize prev/current area and bins value (for tolerance calculation)
