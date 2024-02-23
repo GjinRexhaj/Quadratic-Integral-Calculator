@@ -3,11 +3,11 @@ This is a relatively simple command-line application, which calculates the integ
 
 ## How to run
 To run this program on Windows, download IntegralCalculator.jar and open command prompt.
-Then, type the follow with your specified download path:
+Then, type the following with your specified download path:
 ```
 java -jar <Your-downloads-path>\IntegralCalculator.jar
 ```
-With my current setup I run it with
+With my current setup I run it with:
 ```
 java -jar C:\Users\Gjin\Downloads\IntegralCalculator.jar
 ```
