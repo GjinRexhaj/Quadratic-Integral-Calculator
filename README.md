@@ -13,6 +13,12 @@ java -jar C:\Users\Gjin\Downloads\IntegralCalculator.jar
 ```
 After you download the file, you can move it anywhere and run it as long as you specify the path where it resides.
 
+# Documentation
+
+## Javadoc
+
+The Javadoc for this project can be found at this link: https://gjinrexhaj.github.io/Quadratic-Integral-Calculator/package-summary.html
+
 ## Source code
 
 ### IntegralCalculator.java
